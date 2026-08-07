@@ -1,0 +1,3 @@
+﻿display_name: "问小白对话提取"
+short_description: "登录后复制链接给 Codex，自动提取全部历史对话"
+default_prompt: "我已登录问小白网页版，帮我提取所有历史对话"
