@@ -1,18 +1,32 @@
-# 问小白对话提取器
+<p align="center">
+  <b>问小白对话提取器 Skill</b>
+</p>
 
-一键导出问小白（wenxiaobai.com）全部历史对话为本地 Markdown 文件。
+<p align="center">
+  <a href="https://github.com/MTAlexKen/codex-wenxiaobai-extractor"><img src="https://img.shields.io/badge/Codex-Skill-blue" alt="Codex Skill"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT"></a>
+  <a href="SKILL.md"><img src="https://img.shields.io/badge/Status-active-brightgreen" alt="Active"></a>
+</p>
 
-**零脚本 · 纯 Codex 内置浏览器控制 · 自动滚动加载 · 逐个提取全文**
+<p align="center"><b>一键导出问小白（wenxiaobai.com）全部历史对话为本地 Markdown 文件</b></p>
+
+零脚本 · 纯 Codex 内置浏览器控制 · 自动滚动加载 · 逐个提取全文
 
 ---
 
 ## 快速开始
 
-1. Chrome 打开 https://www.wenxiaobai.com 并**登录**
-2. 复制浏览器地址栏 URL
-3. 发给 Codex：帮我提取这个问小白的所有历史对话：<URL>
+告诉 Codex：
 
-Codex 自动完成：连接浏览器 → 滚动加载全部对话 → 逐个提取 → 保存为 `.md` 文件。
+```
+帮我安装这个 skill：https://github.com/MTAlexKen/codex-wenxiaobai-extractor
+```
+
+安装完成后，Codex 会自动：
+1. 连接到你已登录的 Chrome 浏览器
+2. 滚动侧边栏加载全部对话
+3. 逐个提取对话内容
+4. 保存为 `.md` 文件到 `~/Desktop/问小白对话记录/`
 
 ---
 
