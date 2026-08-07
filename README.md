@@ -1,16 +1,9 @@
-<p align="center">
-  <b>问小白对话提取器 Skill</b>
-</p>
+# 问小白对话提取器 Skill
 
-<p align="center">
-  <a href="https://github.com/MTAlexKen/codex-wenxiaobai-extractor"><img src="https://img.shields.io/badge/Codex-Skill-blue" alt="Codex Skill"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT"></a>
-  <a href="SKILL.md"><img src="https://img.shields.io/badge/Status-active-brightgreen" alt="Active"></a>
-</p>
+> 一键导出你在 wenxiaobai.com 的**全部历史对话**为本地 Markdown 文件。
+> 零脚本 · 纯 Codex 内置浏览器控制 · 自动滚动加载 · 逐个提取全文
 
-<p align="center"><b>一键导出问小白（wenxiaobai.com）全部历史对话为本地 Markdown 文件</b></p>
-
-零脚本 · 纯 Codex 内置浏览器控制 · 自动滚动加载 · 逐个提取全文
+v2.1 基于真实页面全面验证，修复 URL 模式、CSS 选择器、加载更多逻辑，并新增验证码绕过处理。
 
 ---
 
